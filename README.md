@@ -15,5 +15,5 @@ My name is Calebe Rios.
 -----
 ## Stats
 
-![overview](https://github.com/CalebeRios/github-stats/blob/master/generated/overview.svg)
-![languages](https://github.com/CalebeRios/github-stats/blob/master/generated/languages.svg)
+![overview](https://github.com/CalebeRios/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only)
+![languages](https://github.com/CalebeRios/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only)
